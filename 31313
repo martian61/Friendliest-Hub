@@ -1,7 +1,7 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/martian61/loadstring/refs/heads/main/game%20redirect"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/martian61/Friendliest-Hub/refs/heads/main/game%20redirect"))()
 
 --[[
-local repo = "https://raw.githubusercontent.com/decryp1/Obsidian/main/"
+local repo = "https://raw.githubusercontent.com/martian61/Obsidian/main/"
 local lib = loadstring(game:HttpGet(repo .. "Library.lua"))()
 local ThemeManager = loadstring(game:HttpGet(repo .. "addons/ThemeManager.lua"))()
 local SaveManager = loadstring(game:HttpGet(repo .. "addons/SaveManager.lua"))()
