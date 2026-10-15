@@ -56,7 +56,7 @@ end})
 asdasd:AddButton({Text = "Copy LootLabs", Func = function()
 	setclipboard("https://ads.luarmor.net/get_key?for=Herkle_Hub_LootLabs-dwlDbnOWiygS")
 end})
-asdasd:AddLabel("discord: dsc.gg/herkle")
+asdasd:AddLabel("best person world")
 
 local menu = tabs['UI settings']:AddLeftGroupbox('Menu')
 menu:AddButton('Unload', function() lib:Unload() end)
