@@ -12,4 +12,4 @@ elseif placeid == 1252559098 then -- snow shoveling simulator
 elseif placeid == 6403373529 or placeid == 124596094333302 or placeid == 11520107397 or placeid == 9015014224 then -- slap battles
     loadstring(game:HttpGet("https://raw.githubusercontent.com/decryp1/SlapBattles/refs/heads/main/obftest"))()
 elseif placeid == 17590362521 or placeid == 83091000527113 or placeid == 17707569217 or placeid == 91692552632068 or placeid == 133419989757748 or placeid == 70718852079605 or placeid == 115840692772844 or placeid == 135159688166294 then -- spelling bee
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/decryp1/Spelling-Bee-Script/refs/heads/main/spelling%20bee%20script"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/martian61/friendly-hub/refs/heads/main/spelling%20bee%20script"))()
